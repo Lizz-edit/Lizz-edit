@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Elizabeth 👋
 
-<!--
-**Lizz-edit/Lizz-edit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Go Backend Engineer** · 5.5 years of commercial experience
 
-Here are some ideas to get you started:
+I build reliable backend services for fintech, payments, and business-critical workflows. What I enjoy most is optimizing things that quietly waste time — in daily life or in the code itself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages & databases:** Go, SQL, PostgreSQL, Redis
+
+**Messaging & APIs:** Kafka, RabbitMQ, REST, gRPC
+
+**Infrastructure:** Docker, Kubernetes
+
+**Observability:** Prometheus, Grafana, Loki, OpenTelemetry
+
+## 🚀 Current Focus
+
+- Building backend services where correctness matters
+- Driving process improvements that stick
+- Diving deeper into performance optimization and profiling
+
+---
+
+## 📫 Let's connect
+
+- LinkedIn: [elizabeth-basmanova-go-developer](https://www.linkedin.com/in/elizabeth-basmanova-go-developer)
