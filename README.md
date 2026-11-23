@@ -19,9 +19,3 @@ I build reliable backend services for fintech, payments, and business-critical w
 - Building backend services where correctness matters
 - Driving process improvements that stick
 - Diving deeper into performance optimization and profiling
-
----
-
-## 📫 Let's connect
-
-- LinkedIn: [elizabeth-basmanova-go-developer](https://www.linkedin.com/in/elizabeth-basmanova-go-developer)
